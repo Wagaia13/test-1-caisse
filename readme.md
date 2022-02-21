@@ -6,7 +6,7 @@ Requis :
 
 1. Réaliser sous le framework Laravel
 
-2. Avec système de login 
+3. Avec système de login 
    1. (sans la partie mot de passe oublié)
    2. (sans création de compte, compte admin par défaut)
    
@@ -51,4 +51,7 @@ Requis :
   3. Interface d'ajout / rédaction / suppression des types d'opérations :
      1. Liste
      2. Edition
-     3. Suppression
+     3. Suppression\
+        &nbsp;
+        
+4. Le projet doit être déployé sur GitHub (y compris sa base de données), en repo public.
