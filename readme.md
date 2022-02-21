@@ -2,7 +2,7 @@
 ### Objectif
 Créer une interface pour l'opération d'une caisse de jour qui enregistre des encaissements en billets, pièces et centimes et en fait le récapitulatif.
 
-Requis : 
+### Requis : 
 
 1. Réaliser sous le framework Laravel 9
 
@@ -12,7 +12,7 @@ Requis :
    
 3. L'UI doit se composer des éléments suivants :
 
-   1. Page de saisie :
+   1. #### Page de saisie :
       1. Type d'opération : (gérés séparément, voir fin)
          1. dépôt de caisse (ajoute à la caisse)
          2. remise en banque (retire de la caisse)
@@ -36,7 +36,7 @@ Requis :
 ![img.png](img.png)
          
 
-   2. Page type dashboard qui récapitule :
+   2. ####Page type dashboard qui récapitule :
       1. les enregistrements par jour sous forme de tableau pour chaque ligne :
          1. date
          2. sous-total opérations de retrait
@@ -48,10 +48,10 @@ Requis :
 
 ![img_1.png](img_1.png)
 
-  3. Interface d'ajout / rédaction / suppression des types d'opérations :
+  3. #### Interface d'ajout / rédaction / suppression des types d'opérations :
      1. Liste
      2. Edition
      3. Suppression\
         &nbsp;
         
-4. Le projet doit être déployé sur GitHub (y compris sa base de données), en repo public.
+4. Le projet doit être déployé sur **GitHub** (y compris sa base de données), en repo public.
