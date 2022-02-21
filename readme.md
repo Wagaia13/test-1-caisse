@@ -13,7 +13,7 @@ Requis :
 3. L'UI doit se composer des éléments suivants :
 
    1. Page de saisie :
-      1. Type d'opération :
+      1. Type d'opération : (gérés séparément, voir fin)
          1. dépôt de caisse (ajoute à la caisse)
          2. remise en banque (retire de la caisse)
          3. retrait (retire de la caisse)
@@ -47,3 +47,8 @@ Requis :
       2. le total des enregistrements
 
 ![img_1.png](img_1.png)
+
+  3. Interface d'ajout / rédaction / suppression des types d'opérations :
+     1. Liste
+     2. Edition
+     3. Suppression
