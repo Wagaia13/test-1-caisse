@@ -4,7 +4,7 @@ Créer une interface pour l'opération d'une caisse de jour qui enregistre des e
 
 ### Requis : 
 
-1. Réaliser sous le framework Laravel 9
+1. Réaliser sous le framework Laravel 9 (de préférence)
 
 3. Avec système de login 
    1. (sans la partie mot de passe oublié)
